@@ -4,7 +4,6 @@
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 ## About me!
 - 🔭 I’m currently working on Ecospace and Vern games player
-- 📚I'm currently off the internet due to prep for exams.
 - 🌱 I’m currently learning HTML,CSS,Javascript
 - 🤔 I’m looking for help with Javascript
 - 💬 Ask me about anything.

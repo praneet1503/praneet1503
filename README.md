@@ -11,7 +11,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love bobas (bubble teas).
 # 💫 About Me:
-🔭 I’m currently working on a website (<a href="https://praneet3105.github.io/Ecospace/">Ecospace</a>)😜!<br>👯 I dont collaborate for now but we can be friends tho <br>🤝 I’m looking for help with my website functionality<br>🌱 I’m currently learning html, css, javascript<br>💬 Ask me about anything you want ask !<br>⚡ Fun fact i love bubble teas 😜
+🔭 I’m currently working on a website (<a href="https://praneet1503.github.io/Ecospace/">Ecospace</a>)😜!<br>👯 I dont collaborate for now but we can be friends tho <br>🤝 I’m looking for help with my website functionality<br>🌱 I’m currently learning html, css, javascript<br>💬 Ask me about anything you want ask !<br>⚡ Fun fact i love bubble teas 😜
 
 
 ## 🌐 Socials:

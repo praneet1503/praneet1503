@@ -31,3 +31,5 @@
 [![](https://visitcount.itsvg.in/api?id=praneet3105&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ![](https://www.codewars.com/users/praneet15/badges/small)
+
+<a href=#><img src="contributions.svg"></a>
